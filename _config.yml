@@ -1,11 +1,11 @@
 # Site settings
 author: Robert Fustero
-title: 
+title: Robert Fustero's Blog
 header-img: img/home-bg.png
 email: robertfustero@gmail.com
 copyright_name: Robert Fustero
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Summaries and Sarcasm
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  fastaro
