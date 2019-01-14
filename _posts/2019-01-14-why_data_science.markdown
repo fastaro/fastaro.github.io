@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Why Data Science?"
+date:       2019-01-14 22:03:41 +0000
+permalink:  why_data_science
+---
+
+I'm sure my story is somewhat familar to a lot of people here.  I originally went to college for music composition.  But as my program went a long, I realized this isnt the program for me.  I wanted to learn music psychology, music physics, music programming, etc.. but the program was more focused on valid aspects of musicanship and being a music teacher.  Nothing wrong with the school, but my mind was onto bigger things.  
+The Carl Sagan quote about how we live in a world ran by technology barley anyone understands influenced me to get an Assicotes in Electrial Engineering at my communitty college.  My original plan was to graduate with a Bachelors in Computer Engineering with a concentration in Digital Signal Processing.  Unfortunetly, my university experience was very dissapointing.  I won't get into too much detail - but looking at the quality of service I was getting vs the price I was paying per semester- It was not worth it.  
+What motivated me the most to switch from a DSP focus to a ML focus was Deep Mind's Alpha Zero.  This is google's AI which taught itself how to play chess in 4 hours and beat the best chess computer at the time(Stockfish 8).  When I learned about reinforcement learning and bayesian networks and markov processes.. I just wanted to keep learning about it.  I loved how Fourier analysis came up again as well.  Just so many things I found interesting through my academic career and on my own googling came into play in one subject matter.  I had a feeling deep down that this is what I want to dedicate my life to.
+One thing to mention.  I came up with this cool math formula in the summer of 2016.  It represents a series of ratios that when multiplied together always equal a constant.  The cool thing about it is that for the x values 0 - 6.. it shows all the pythagorean ratios (notes in the music scale).  I gave a tedx talk about it - but I did more work on it since then and went on to discover it's fourier series expansion.  I would love to do more with it if I can, but for now I'm ready to publish my findings.  I'm looking forward to this bootcamp and can't wait to apply what I learn!
