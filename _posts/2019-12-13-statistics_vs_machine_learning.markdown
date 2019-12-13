@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Statistics vs Machine Learning"
-date:       2019-12-13 23:15:58 +0000
+date:       2019-12-13 18:15:59 -0500
 permalink:  statistics_vs_machine_learning
 ---
 
